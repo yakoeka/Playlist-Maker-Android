@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">Playlist Maker</string>
-    <string name="question_rating">Рейтинг этого фильма\n больше чем 9?</string>
+    <string name="search">Поиск</string>
+    <string name="media_library">Медиатека</string>
+    <string name="settings">Настройки</string>
+    <string name="night_theme">Темная тема</string>
+    <string name="share">Поделиться приложением</string>
+    <string name="write_to_support">Написать в поддержку</string>
+    <string name="user_agreement">Пользовательское соглашение</string>
 </resources>
